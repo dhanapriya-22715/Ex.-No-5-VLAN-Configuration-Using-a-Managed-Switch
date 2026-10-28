@@ -66,6 +66,8 @@ Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on switch<br>
+<img width="1917" height="1150" alt="image" src="https://github.com/user-attachments/assets/1cc5d9cf-9cae-4b47-a3fd-c14a4ab2c850" />
+
 •	PC IP settings<br>
 •	Successful ping between PCs in the same VLAN<br>
 •	Failed ping between PCs in different VLANs<br>
