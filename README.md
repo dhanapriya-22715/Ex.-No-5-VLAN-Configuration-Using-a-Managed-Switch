@@ -15,7 +15,12 @@ Description:<br>
 •	PC0 and PC1 are assigned to VLAN 10.<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
 •	All PCs are connected to different ports on the same switch.<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/ea0c7746-0d21-440f-a47c-3ba7688b30c2" />
+<img width="1917" height="1145" alt="image" src="https://github.com/user-attachments/assets/0568e8ec-65a4-4611-9e2a-020413ab9352" />
+<img width="1917" height="1147" alt="image" src="https://github.com/user-attachments/assets/f001f884-6561-48a1-bbea-1bd14e102ffe" />
+
+
+
 ________________________________________
 # IP Addressing Table
 Device	VLAN	IP Address	Subnet Mask	Port<br>
